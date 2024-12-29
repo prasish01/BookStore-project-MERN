@@ -68,8 +68,8 @@ A CRUD application for managing books in a store. This project uses the MERN sta
 3. **Environment Setup**
    - Create a `.env` file in the backend folder and add the following:
      ```env
-     PORT=5000
-     MONGO_URI=your_mongodb_connection_string
+     DB_USER=username
+     DB_PASSWORD=password
      ```
 
 4. **Run the application**
@@ -86,32 +86,7 @@ A CRUD application for managing books in a store. This project uses the MERN sta
 
 ---
 
-## Directory Structure
 
-### Backend
-```
-backend/
-├── controllers/       # Business logic
-├── models/            # Database schemas
-├── routes/            # API routes
-├── config/            # Database connection and configs
-├── app.js             # Main server file
-└── package.json       # Dependencies
-```
-
-### Frontend
-```
-frontend/
-├── src/
-│   ├── components/    # Reusable UI components
-│   ├── pages/         # Route-specific pages
-│   ├── utils/         # Helper functions (e.g., Axios config)
-│   ├── App.js         # Main application component
-│   └── index.js       # React entry point
-└── package.json       # Dependencies
-```
-
----
 
 ## API Endpoints
 
@@ -126,31 +101,8 @@ frontend/
 
 ---
 
-## Screenshots
-Add screenshots or gifs to showcase your app here.
-
----
-
-## Future Improvements
-- Add user authentication and authorization.
-- Enhance the UI with more animations or features.
-- Implement advanced search and filtering for books.
-- Deploy the application.
-
----
-
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 ## Acknowledgments
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [MongoDB](https://www.mongodb.com/)
+- [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
+- [DevEmpower](https://www.youtube.com/@DevEmpower)
 
