@@ -49,8 +49,8 @@ A CRUD application for managing books in a store. This project uses the MERN sta
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/book-store.git
-   cd book-store
+   git clone https://github.com/prasish01/BookStore-project-MERN.git
+   
    ```
 
 2. **Install dependencies**
