@@ -1,0 +1,31 @@
+# Node.js modules
+node_modules/
+
+# Environment variable files
+.env
+
+
+# Build directories for React
+/build/
+public/
+
+
+# Temporary files
+*~
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Dependency directories for frontend 
+yarn.lock
+package-lock.json
+
+# Optional: Cache and temp files for frontend build tools
+.cache/
+npm-debug.log
